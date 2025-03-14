@@ -1,0 +1,7 @@
+google-generativeai
+logging
+itertools
+streamlit
+streamlit_lottie
+time
+requests
